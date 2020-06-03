@@ -27,15 +27,30 @@ body {
 body{
   padding-top: 10px;
 }
+#navbar {
+  overflow: hidden;
+  background-color: #1C1C1E;
+}
+.content {
+  padding: 16px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 60px;
+}
 </style>
 <head>
 <title>Home</title>
 <link rel="shortcut icon" href="https://ajaidan.github.io/style/images/logo.png" type="image/x-icon" />
 </head>
   <body>
-    <navbar color="#1C1C1E">
-      <h2 class="a">Home</h2>
-    </navbar>
+    <section class="w3-row-padding">
+      <h1 class="scp">Home</h1>
+    </section>
     <br>
     <section class="w3-container w3-center w3-content" style="max-width:600px">
       <h3 class="a">This is my development page.</h3>
@@ -49,4 +64,18 @@ body{
     <nav class="w3-center">
       <a href="https://github.com/ajaidan" target="_blank" class="w3-button w3-round-xxlarge w3-hover-blue w3-blue w3-margin" class="a">Github</a>
     </nav>
+    <script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
   </body>
