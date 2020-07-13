@@ -1,0 +1,8 @@
+Origin: ajaidan0's Repo
+Label: ajaidan0's Repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: ajaidan0's Repo for Beta Packages
