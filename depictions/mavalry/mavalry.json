@@ -98,7 +98,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Hide page dots /r /n - Hide app labels /r /n - Hide folder backgrounds /r /n - Hide dock background /r /n - Hide homebar /r /n - Remove today view /r /n - Remove spotlight search",
+                    "markdown": "- Hide page dots\r\n- Hide app labels\r\n- Hide folder backgrounds\r\n- Hide dock background\r\n- Hide homebar\r\n- Remove today view\r\n- Remove spotlight search",
                     "useSpacing": false
                 },
                 {
@@ -112,7 +112,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Hide older notifications text /r /n - Hide DND notification /r /n - Remove today view",
+                    "markdown": "- Hide older notifications text\r\n- Hide DND notification\r\n- Remove today view",
                     "useSpacing": false
                 },
                 {
@@ -130,7 +130,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Haptic when increase / decrease volume /r /n - Haptic when take screenshot /r /n - Customize how many levels the volume goes up / down on each press",
+                    "markdown": "- Haptic when increase / decrease volume\r\n- Haptic when take screenshot\r\n- Customize how many levels the volume goes up / down on each press",
                     "useSpacing": false
                 },
                 {
@@ -144,7 +144,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Hide reachability chevron /r /n - Remove reachability timer",
+                    "markdown": "- Hide reachability chevron\r\n- Remove reachability timer",
                     "useSpacing": false
                 },
                 {
@@ -157,6 +157,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 2.0.1 Beta 1",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add haptics support for iPhone 6s (Thanks Thomz)\r\n- Fix Discord server link",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "Version 2.0",
