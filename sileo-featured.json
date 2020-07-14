@@ -4,10 +4,10 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "url": "https://ajaidan0.github.io/depictions/mavalry/images/banner.png",
+            "url": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/banner.png",
             "title": "Mavalry",
             "package": "com.ajaidan.mavalry",
-            "hideShadow": true
+            "hideShadow": false
         },
     ]
 }
