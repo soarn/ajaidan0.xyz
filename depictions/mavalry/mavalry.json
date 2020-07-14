@@ -48,12 +48,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "2.0",
+                    "text": "2.0.1 beta 1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "07-13-20",
+                    "text": "07-14-20",
                     "title": "Last Time Updated"
                 },
                 {
@@ -89,6 +89,72 @@
         },
         {
             "class": "DepictionStackView",
+            "tabname": "Features",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Homescreen",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Hide page dots /r /n - Hide app labels /r /n - Hide folder backgrounds /r /n - Hide dock background /r /n - Hide homebar /r /n - Remove today view /r /n - Remove spotlight search",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Lockscreen",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Hide older notifications text /r /n - Hide DND notification /r /n - Remove today view",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Haptics",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Haptic when increase / decrease volume /r /n - Haptic when take screenshot /r /n - Customize how many levels the volume goes up / down on each press",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Reachability",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Hide reachability chevron /r /n - Remove reachability timer",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+            ]
+        },
+        {
+            "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
                 {
@@ -110,5 +176,5 @@
     ],
     "headerImage": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/banner.png",
     "tintColor": "#9836C5",
-    "minVersion": "2.0"
+    "minVersion": "0.1"
 }
