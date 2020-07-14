@@ -7,7 +7,7 @@
             "url": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/banner.png",
             "title": "Mavalry",
             "package": "com.ajaidan.mavalry",
-            "hideShadow": false
+            "hideShadow": true
         },
     ]
 }
