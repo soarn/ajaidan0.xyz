@@ -159,7 +159,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Version 2.0.1 Beta 1",
+                    "title": "2.0.1 Beta 1",
                     "useBoldText": true
                 },
                 {
@@ -173,7 +173,7 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Version 2.0",
+                    "title": "2.0",
                     "useBoldText": true
                 },
                 {
