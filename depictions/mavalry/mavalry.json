@@ -12,28 +12,24 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/aes/assets/ss1.png"
+                            "url": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/assets/ss1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/aes/assets/ss2.png"
+                            "url": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/assets/ss2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/aes/assets/ss3.png"
+                            "url": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/assets/ss3.png"
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/aes/assets/ss4.png"
+                            "url": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/assets/ss4.png"
                         },
                         {
                             "accessibilityText": "Screenshot4",
-                            "url": "https://repo.litten.love/depictions/aes/assets/ss5.png"
+                            "url": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/assets/ss5.png"
                         },
-                        {
-                            "accessibilityText": "Screenshot5",
-                            "url": "https://repo.litten.love/depictions/aes/assets/ss6.png"
-                        }
                     ]
                 },
                 {
@@ -44,7 +40,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "An Aesthetic Look To Your Loved Connectivity Toggles",
+                    "markdown": "iOS Customization done right.",
                     "useBottomMargin": false
                 },
                 {
@@ -52,17 +48,17 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.1.4",
+                    "text": "2.0",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "04-28-2020",
+                    "text": "07-13-20",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "02-23-2020",
+                    "text": "06-15-20",
                     "title": "Released"
                 },
                 {
@@ -72,7 +68,7 @@
                 },
                 {
                     "title": "Developer",
-                    "text": "Litten",
+                    "text": "ajaidan0",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -81,18 +77,13 @@
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Twitter",
-                    "action": "https://twitter.com/Litteeen"
-                },
-                {
-                    "class": "DepictionTableButtonView",
                     "title": "Reddit",
-                    "action": "https://reddit.com/user/sh0rtflow"
+                    "action": "https://reddit.com/user/ajaidan0"
                 },
                 {
                     "class": "DepictionTableButtonView",
                     "title": "Github",
-                    "action": "https://github.com/Litteeen"
+                    "action": "https://github.com/ajaidan0"
                 }
             ]
         },
@@ -102,92 +93,22 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Version 1.1.4",
+                    "title": "Version 2.0",
                     "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- New Preferences Design\r\n- Changed One Link",
+                    "markdown": "- Initial release to this repo",
                     "useSpacing": false
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1.3",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Updated Links In Preferences",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1.2",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Re-/Jailbreak Issues",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed The Color Pickers Not Showing Up",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Re-added The Correct Artwork, My Bad\r\n- Performance Improvements\r\n- Added Disabled State Coloring\r\n- Small Changes To The Preferences Look",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.0",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Initial Release",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                }
             ]
         }
     ],
-    "headerImage": "https://repo.litten.love/depictions/aes/assets/Banner.png",
-    "tintColor": "#aab3f9",
-    "minVersion": "0.1"
+    "headerImage": "https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/banner.png",
+    "tintColor": "#9836C5",
+    "minVersion": "2.0"
 }
