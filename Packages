@@ -73,3 +73,19 @@ Icon: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depic
 Name: Mavalry
 Sileodepiction: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/mavalry.json
 
+Package: com.ajaidan.nomorescrollstotop
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ajaidan0
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: /home/ajaidan0/Projects/ajaidan0.github.io/debs/com.ajaidan.nomorescrollstotop_1.0_iphoneos-arm.deb
+Size: 67044
+MD5sum: be93395f2dd82ea873b3fcbef4a16219
+SHA1: 6d73ac87f5d34e90db0805d75601e42c47737001
+SHA256: 2c3a8887b2cce48d17d18c3d6c7ac81b95b60045823880ae58e688a27cc1351f
+Section: Tweaks
+Description: A simple tweak to disable scrollsToTop in **almost** all apps.
+Author: ajaidan0
+Name: NoMoreScrollstoTop
+
