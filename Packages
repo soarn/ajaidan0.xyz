@@ -1,0 +1,75 @@
+Package: com.ajaidan.mavalry
+Version: 2.0.1-b2
+Architecture: iphoneos-arm
+Maintainer: ajaidan0
+Installed-Size: 1852
+Depends: mobilesubstrate, firmware (>= 13.0), ws.hbang.common, preferenceloader
+Filename: /home/ajaidan0/Projects/ajaidan0.github.io/debs/com.ajaidan.mavalry_2.0.1-b2_iphoneos-arm.deb
+Size: 1539036
+MD5sum: d82b11226862b7d127a866eaba8f91a7
+SHA1: 2a0c8bc3551aef7e5d60bba434fe2f8745db2dd1
+SHA256: 9ae9992dfa72d072e2f4741e27c031c2218a0b87048bc5ec650a9657203d2de3
+Section: Tweaks
+Description: iOS customization, done right.
+Author: ajaidan0
+Depiction: https://ajaidan0.github.io/depictions/mavalry/index.html
+Icon: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/icon.png
+Name: Mavalry
+Sileodepiction: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/mavalry.json
+
+Package: com.ajaidan.mavalry
+Version: 2.0.1-b3
+Architecture: iphoneos-arm
+Maintainer: ajaidan0
+Installed-Size: 1852
+Depends: mobilesubstrate, firmware (>= 13.0), ws.hbang.common, preferenceloader
+Filename: /home/ajaidan0/Projects/ajaidan0.github.io/debs/com.ajaidan.mavalry_2.0.1-b3_iphoneos-arm.deb
+Size: 1538304
+MD5sum: 08a889bfa71ad000af99f25b92b94888
+SHA1: 52eec06d11248956f7d249d547a03c17942c8ff4
+SHA256: 81c297f12301c9b7257c86cd3f175381d189ca55916ce9831fc6dcf6787bf62b
+Section: Tweaks
+Description: iOS customization, done right.
+Author: ajaidan0
+Depiction: https://ajaidan0.github.io/depictions/mavalry/index.html
+Icon: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/icon.png
+Name: Mavalry
+Sileodepiction: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/mavalry.json
+
+Package: com.ajaidan.mavalry
+Version: 2.0.1-b4
+Architecture: iphoneos-arm
+Maintainer: ajaidan0
+Installed-Size: 1852
+Depends: mobilesubstrate, firmware (>= 13.0), ws.hbang.common, preferenceloader
+Filename: /home/ajaidan0/Projects/ajaidan0.github.io/debs/com.ajaidan.mavalry_2.0.1-b4_iphoneos-arm.deb
+Size: 1538708
+MD5sum: 3e04d86aa1ac11a2d009d6070c04a6df
+SHA1: 65a81ab123e6c3bb34e59b2e547f6708cd4cf2a4
+SHA256: a1f9289d9fb7eb2fb2c87b48b3ce0e1112957dc0630fee798fec57a2aa3fc39e
+Section: Tweaks
+Description: iOS customization, done right.
+Author: ajaidan0
+Depiction: https://ajaidan0.github.io/depictions/mavalry/index.html
+Icon: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/icon.png
+Name: Mavalry
+Sileodepiction: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/mavalry.json
+
+Package: com.ajaidan.mavalry
+Version: 2.0.1-b6
+Architecture: iphoneos-arm
+Maintainer: ajaidan0
+Installed-Size: 1888
+Depends: mobilesubstrate, firmware (>= 13.0), ws.hbang.common, preferenceloader
+Filename: /home/ajaidan0/Projects/ajaidan0.github.io/debs/com.ajaidan.mavalry_2.0.1-b6_iphoneos-arm.deb
+Size: 1538228
+MD5sum: 9a7c1cda12b32bb28434d0c2b87b9fa7
+SHA1: 9a2f313c6c3f23a7d015930b6f10963dbfadbb58
+SHA256: 7730e5fb6f9dcf0662dda7e8008517d3223dab2ff868fda66f8b5e7c8d403cd4
+Section: Tweaks
+Description: iOS customization, done right.
+Author: ajaidan0
+Icon: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/images/icon.png
+Name: Mavalry
+Sileodepiction: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/mavalry.json
+
