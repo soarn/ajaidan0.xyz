@@ -48,12 +48,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "2.0.1-b6",
+                    "text": "2.0.1-b7",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "07-18-20",
+                    "text": "07-23-20",
                     "title": "Last Time Updated"
                 },
                 {
@@ -158,6 +158,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.1-b7",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Code cleanup go brrrrr",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0.1-b6",
