@@ -1,0 +1,33 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+user .icon-container img {
+    width: 80px;
+    height: auto;
+}
+
+user .icon-container {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+#about {
+    background-color: burlywood;
+}
