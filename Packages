@@ -92,6 +92,25 @@ Icon: file:///Library/PreferenceBundles/MavalryPrefs.bundle/icon@3x.png
 Name: Mavalry
 Sileodepiction: https://raw.githubusercontent.com/ajaidan0/ajaidan0.github.io/master/depictions/mavalry/mavalry.json
 
+Package: com.ajaidan.mavalry
+Version: 2.0.1-b8
+Architecture: iphoneos-arm
+Maintainer: ajaidan0
+Installed-Size: 1888
+Depends: mobilesubstrate, firmware (>= 13.0), ws.hbang.common, preferenceloader
+Filename: ./debs/com.ajaidan.mavalry_2.0.1-b8_iphoneos-arm.deb
+Size: 1537808
+MD5sum: d25870f936ca4243a1f4e0dbc0d0f58c
+SHA1: af6179678c37fea989eaea722adad04e295fc4c9
+SHA256: 9fe36d7062f8cb6e9dfae86c50f6f52cfec0879e390685fc9b6c013505ae6d2c
+Section: Tweaks
+Description: iOS customization, done right.
+Author: ajaidan0
+Depiction: https://ajaidan0.xyz/depictions/mavalry/mavalry.html
+Icon: file:///Library/PreferenceBundles/MavalryPrefs.bundle/icon@3x.png
+Name: Mavalry
+Sileodepiction: https://raw.githubusercontent.com/ajaidan0/ajaidan0.xyz/master/depictions/mavalry/mavalry.json
+
 Package: com.ajaidan.nomorescrollstotop
 Version: 1.0
 Architecture: iphoneos-arm
@@ -103,6 +122,22 @@ Size: 67044
 MD5sum: be93395f2dd82ea873b3fcbef4a16219
 SHA1: 6d73ac87f5d34e90db0805d75601e42c47737001
 SHA256: 2c3a8887b2cce48d17d18c3d6c7ac81b95b60045823880ae58e688a27cc1351f
+Section: Tweaks
+Description: A simple tweak to disable scrollsToTop in **almost** all apps.
+Author: ajaidan0
+Name: NoMoreScrollstoTop
+
+Package: com.ajaidan.nomorescrollstotop
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ajaidan0
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.ajaidan.nomorescrollstotop_1.1_iphoneos-arm.deb
+Size: 66944
+MD5sum: b5fec786c294fd26a43abc10437b9fa1
+SHA1: b0835b1425864b2d3dca7a0a95ca57b5695d2b5c
+SHA256: 55d7f1a9b7bae04a28a606f8d290a9b92b862793052f4d9b6f2ce316a7665c46
 Section: Tweaks
 Description: A simple tweak to disable scrollsToTop in **almost** all apps.
 Author: ajaidan0
